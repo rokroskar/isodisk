@@ -1,2 +1,0 @@
-git+https://github.com/pynbody/pynbody.git#egg=pynbody
-emcee
